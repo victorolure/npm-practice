@@ -17,6 +17,8 @@
     },
     "homepage": "https://github.com/victorolure/npm-practice#readme",
     "dependencies": {
-        "dayjs": "^1.10.8"
+        "dayjs": "^1.10.8",
+        "js": "^0.1.0",
+        "validator": "^13.7.0"
     }
 }
